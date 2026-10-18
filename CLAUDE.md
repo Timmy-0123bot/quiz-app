@@ -23,3 +23,7 @@
 - JavaScript は `const` / `let` を使い、`var` は使わない。
 - クイズの問題データはロジックと分離して管理する（例: 問題データ用の JS ファイルや JSON ファイル）。
 - スマートフォンでも遊べるよう、レスポンシブなレイアウトにする。
+
+## GitHubリポジトリ
+
+https://github.com/Timmy-0123bot/quiz-app.git
